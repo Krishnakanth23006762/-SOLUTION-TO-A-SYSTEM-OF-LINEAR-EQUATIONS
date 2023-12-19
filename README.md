@@ -27,7 +27,8 @@ print(result)
 
 ## Output:
 
-![Screenshot 2023-10-24 170853](https://github.com/Krishnakanth23006762/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/138849446/36519880-e094-4e84-856d-7d65f5fe7f5e)
+![image](https://github.com/Krishnakanth23006762/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/138849446/1d464d5f-ee9c-4db1-a434-84e38daed876)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
